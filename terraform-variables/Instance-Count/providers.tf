@@ -1,4 +1,4 @@
 provider "aws" {
-  region                  = "us-east-1"
-  shared_credentials_file = "/C/Users/hp/.aws/credentials"
+  region                  = "eu-west-2"
+  shared_credentials_file = "/root/.aws/credentials"
 }
