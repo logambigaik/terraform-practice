@@ -1,3 +1,9 @@
+# What is remote state in terraform?
+
+  Remote State
+
+ By default, Terraform stores state locally in a file named terraform. ... With remote state, Terraform writes the state data to a remote data store, which can then be shared between all members of a team
+
 # S3 bucket:
 
 ![image](https://user-images.githubusercontent.com/54719289/112168047-dfe60780-8be8-11eb-8d06-b8ab34c4cd25.png)
